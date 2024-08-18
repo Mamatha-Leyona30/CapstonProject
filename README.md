@@ -1,2 +1,3 @@
 # CapstonProject
-This is My Capstone Project for Movie App
+This is My Movie App
+Author Mamatha B M 
