@@ -1,3 +1,3 @@
 # CapstonProject
-This is My Movie App
-Author Mamatha B M 
+This is My Movie App repository
+Author - Mamatha B M 
